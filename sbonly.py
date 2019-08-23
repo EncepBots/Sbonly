@@ -61,15 +61,15 @@ msg_dict = {}
 msg_dict1 = {}
 offbot = []
 welcome = []
-#☠•➤☠•➤☠•➤☠•INEX KILLERS➤☠•➤☠•➤☠•➤☠•➤☠•➤
-nama1 = 'InexBots'
+#☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤
+nama1 = 'EncepBots'
 Headers3 = {
         'User-Agent': "CHROMEOS\t9.0.3Bot-Eater\t17.09",
         'X-Line-Application': "CHROMEOS 1.7.14 BotEater x64",
         "x-lal": "ja-US_US",
     }
 
-#☠•➤☠•➤☠•➤☠•INEX KILLERS FAMS➤☠•➤☠•➤☠•➤☠•➤☠•➤
+#☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤☠•➤
 settings = {
     "autoBlock": False,
     "autoRead": False,
